@@ -1,6 +1,6 @@
 {
-    "latest_version": "1.6.0",
-    "changelog": "test update",
+    "latest_version": "1.7.0",
+    "changelog": "test update 2",
     "download_url": "https://github.com/Eviaz/normand-launcher/archive/refs/heads/main.zip",
     "critical": false,
     "timestamp": "2024-01-15"

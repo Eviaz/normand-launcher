@@ -1,7 +1,7 @@
 {
     "latest_version": "1.5.0",
-    "changelog": "• Тестовая версия\n• Проверка обновлений",
-    "download_url": "https://github.com/user-attachments/files/23532465/launcher-v1.5.0.zip",
+    "changelog": "• Тестовая версия\n• Проверка обновлений\n• Временная ссылка",
+    "download_url": "https://github.com/Eviaz/normand-launcher/archive/refs/heads/main.zip",
     "critical": false,
     "timestamp": "2024-01-15"
 }
